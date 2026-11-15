@@ -1,0 +1,2 @@
+# System package required by tx_matrix.py: python3-tk
+pyserial>=3.5,<4
